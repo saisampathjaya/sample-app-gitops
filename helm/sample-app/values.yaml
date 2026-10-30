@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 667523685556.dkr.ecr.ap-south-1.amazonaws.com/sample-app-repo
-  tag: "5"
+  tag: "1"
 
 service:
   type: NodePort
